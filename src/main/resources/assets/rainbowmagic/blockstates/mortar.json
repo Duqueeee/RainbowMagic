@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "rainbowmagic:block/mortar",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "rainbowmagic:block/mortar"
+    },
+    "facing=south": {
+      "model": "rainbowmagic:block/mortar",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "rainbowmagic:block/mortar",
+      "y": 270
+    }
+  }
+}

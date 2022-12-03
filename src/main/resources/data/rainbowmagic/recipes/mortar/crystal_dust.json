@@ -1,0 +1,9 @@
+{
+  "type": "rainbowmagic:mortar",
+  "ingredient": {
+    "item": "rainbowmagic:crystal_shard"
+  },
+  "output": {
+    "item": "rainbowmagic:crystal_dust"
+  }
+}

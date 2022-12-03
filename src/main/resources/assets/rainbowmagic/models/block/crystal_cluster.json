@@ -1,0 +1,6 @@
+{
+	"parent": "minecraft:block/cross",
+	"textures": {
+		"cross": "rainbowmagic:block/crystal_cluster"
+	}
+}

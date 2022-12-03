@@ -1,0 +1,19 @@
+{
+  "item.rainbowmagic.crystal_shard": "Crystal Shard",
+  "item.rainbowmagic.crystal_dust": "Crystal Dust",
+  "item.rainbowmagic.wand": "Wand",
+
+  "item.rainbowmagic.netherite_pestle": "Netherite Pestle",
+  "item.rainbowmagic.diamond_pestle": "Diamond Pestle",
+  "item.rainbowmagic.iron_pestle": "Iron Pestle",
+  "item.rainbowmagic.golden_pestle": "Golden Pestle",
+  "item.rainbowmagic.stone_pestle": "Stone Pestle",
+  "item.rainbowmagic.wooden_pestle": "Wooden Pestle",
+
+  "block.rainbowmagic.crystal_cluster": "Crystal Cluster",
+  "block.rainbowmagic.quartz_cluster": "Quartz Cluster",
+  "block.rainbowmagic.extractor": "Q-Aura Extractor",
+  "block.rainbowmagic.mortar": "Mortar",
+
+  "itemGroup.rainbowmagic.misc": "Rainbow Magic"
+}
